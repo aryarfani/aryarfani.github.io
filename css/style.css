@@ -40,8 +40,6 @@ nav {
 
 .row-grey {
   background-color: rgba(211, 211, 211, 0.322);
-  /* -webkit-clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%);
-	clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%); */
   padding: 65px 10px;
 }
 
